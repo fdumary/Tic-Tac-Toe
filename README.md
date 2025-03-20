@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-https://fdumary.github.io/Tic-Tac-Toe/
+Link: https://fdumary.github.io/Tic-Tac-Toe/
 
 This is a simple Tic Tac Toe game.
 
