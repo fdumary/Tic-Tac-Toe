@@ -1,0 +1,54 @@
+html,body { 
+	height: 100%;
+	color: darkblue;
+}
+
+card-text{
+	color: darkblue;
+}
+
+body{
+	display: -ms-flexbox;
+	display: -webkit-box;
+	display: flex;
+	-ms-flex-align: center;
+	-ms-flex-pack: center;
+	-webkit-box-align: center;
+	align-items: center;
+	-webkit-box-pack: center;
+	justify-content: center;
+	background-color: #cfe0ff;
+}
+
+#tictactoe {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form{
+	padding-top: 10px;
+	font-size: 11px;
+	margin-top: 30px;
+}
+
+.card-title{ 
+	font-weight:300;
+	color: darkblue;
+}
+
+.login-form{ 
+	width:300px;
+	height:300px;
+	border: 2px solid darkblue;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
